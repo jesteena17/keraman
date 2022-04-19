@@ -1,0 +1,761 @@
+body {
+     padding-top: 8%;
+     font-family: Montserrat !important;
+}
+.mycolorhome {
+     color: #a05b4f !important;
+     font-family: Montserrat;
+     font-weight: 800 ;
+     
+     font-size: 8pt;
+}
+.mycolor {
+     color: #802e2a;
+     font-family: Montserrat;
+     font-weight: 900;
+     fill: #802e2a;
+     font-size: 10pt;
+}
+.mybtn {
+     width:165px;
+     padding: 10px 70px 10px 70px;
+     /* border-radius: 10px; */
+     background-color: #802e2a;
+     
+     font-family: Montserrat;
+     font-size: 8pt;
+     font-weight: 500;
+     font-stretch: normal;
+     font-style: normal;
+     line-height: normal;
+     letter-spacing: normal;
+     text-align:center;
+     color: #fff !important;
+}
+.mybtn:hover {
+     width:165px;
+     padding: 10px 70px 10px 70px;
+     /* border-radius: 10px; */
+     background-color: #802e2a;
+     
+     font-family: Montserrat;
+     font-size: 8pt;
+     font-weight: 600;
+     font-stretch: normal;
+     font-style: normal;
+     line-height: normal;
+     letter-spacing: normal;
+     text-align:center;
+     color: #fff !important;
+}
+.colorblk {
+     color: black;
+     font-family:Montserrat;
+     font-size: 8pt;
+}
+.colorblk1 {
+     color: black;
+     font-family: Montserrat;
+     font-size: 8pt;
+}
+.colorphone {
+     color: black;
+     font-weight: 900;
+     font-family: Montserrat;
+     font-size: 10pt;
+}
+.mlogo {
+     width: 205px;
+     height: auto;
+}
+.banner_holder {
+     width: 100%;
+     height: 300px;
+     min-height: 200px;
+     position: relative;
+     outline: none;
+}
+.banner_holder2 {
+     width: 100%;
+     /* height: 160px; */
+     /* min-height: 160px; */
+     position: relative;
+     outline: none;
+}
+.banner_holderImage {
+     height: 580px;
+     position: relative;
+     background: url(../images/mban.webp) no-repeat;
+     background-size: cover;
+     background-position: center;
+     border-top-left-radius: 25px;
+     border-top-right-radius: 25px;
+}
+.exp_solo_banner_holderImage {
+     height: 180px;
+     position: relative;
+     background: url(../images/mban.webp) no-repeat;
+     background-size: cover;
+     background-position: center;
+     border-top-left-radius: 25px;
+     border-top-right-radius: 25px;
+}
+.experirnce_solo_banner_holderImage {
+     height: 130px;
+     position: relative;
+     background: url(../images/mban.webp) no-repeat;
+     background-size: cover;
+     background-position: center;
+     border-top-left-radius: 15px;
+     border-top-right-radius: 15px;
+     border-bottom-left-radius: 15px;
+     border-bottom-right-radius: 15px;
+}
+.mt-15 {
+     margin-top: 100px;
+}
+.bg-light {
+     background-color: white !important;
+}
+.section {
+     /* display: flex;
+     justify-content: center;
+     flex-direction: column !important; */
+     /* z-index: 0; */
+     /* margin-top: 100px;
+     margin-bottom: 100px; */
+     /* position: relative; */
+     /* min-height: 100%;
+     min-height: 100vh;
+     width: 100%;
+     width: 100vh; */
+     clear: left;
+     border: solid 1px black;
+     margin: 2em;
+     padding: 0.5em;
+     overflow: auto;
+}
+.cimg1 {
+     width: 100%;
+     height: auto;
+}
+.bannerdiv {
+     display: flex !important;
+     justify-content: center !important;
+}
+
+.solo{
+     box-shadow: inset 0 -70px 60px -50px black;
+}
+.cdiv1_img {
+     width: 100% !important; 
+      height: 400px;
+     
+     object-fit: cover;
+     
+}
+.cdiv2_img {
+      width: 100% !important; 
+      height: 400px;
+     
+     object-fit: cover;
+    
+    
+}
+.cdiv3_img {
+     width: 70% !important; 
+      height: 200px;
+     
+     object-fit: cover;
+     
+}
+
+
+
+
+
+
+.textmain {
+     font-weight: bold;
+     font-family: Montserrat;
+}
+.textsub1 {
+     line-height: 0.8rem;
+     font-size: xx-large;
+     font-weight: 700;
+
+     color: #a05b4f;
+}
+.textsub2 {
+     line-height: 0.7rem;
+     font-size: smaller;
+}
+.Welcome-to-Keraman {
+     
+  font-family: Montserrat;
+  font-size: 35px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+.text-style-1 {
+     color: #a05b4f;
+
+     font-size: 30px;
+     font-weight: 900;
+     font-stretch: normal;
+     font-style: normal;
+     line-height: 0.75;
+     letter-spacing: 1px;
+     text-align: left;
+}
+
+
+.solotext-style-1
+{
+     color: #a05b4f;
+     font-family: Montserrat;
+     font-size: 20px;
+     font-weight: 700;
+     font-stretch: normal;
+     font-style: normal;
+    
+
+     text-align: left;
+}
+.The-Luxury-Travel-Experts {
+     
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+.p1 {
+     margin-top: 0;
+     margin-bottom: 0.7rem !important;
+}
+.Rectangle-1 {
+     width: 78px;
+     height: 10px;
+     margin: 13px 0px 16px 0px;
+     background-color: #ef761b;
+}
+
+.mcontent {
+     font-size: x-small;
+}
+
+.specimgs{
+     object-fit: cover;
+}
+.cardspec{
+     border:none !important;
+}
+
+.spechead{
+padding-top:15px;
+font-family: Montserrat;
+font-size: 13pt;
+font-weight: 800;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.29;
+letter-spacing: normal;
+text-align: justify;
+color: #000;
+}
+.specdesc{
+     width: inherit;
+     font-family: Montserrat;
+     font-size: 11pt;
+     font-weight: 500;
+     font-stretch: normal;
+     font-style: normal;
+     line-height: 1.29;
+     letter-spacing: normal;
+     text-align: justify;
+     color: #000;
+}
+
+/* packges section */
+
+.card-01 {
+     box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.1);
+     border: none;
+     margin-bottom: 30px;
+}
+.card-01:hover {
+     transform: scale(1.05);
+     transition: all 1s ease;
+     z-index: 999;
+}
+.card-01 .card-body {
+     position: relative;
+     padding-top: 40px;
+}
+.card-01 .badge-box {
+     position: absolute;
+     top: -20px;
+     left: 50%;
+     width: 100px;
+     height: 100px;
+     margin-left: -50px;
+     text-align: center;
+}
+.card-01 .badge-box i {
+     background: black;
+     color: #fff;
+     border-radius: 50%;
+     width: 50px;
+     height: 50px;
+     line-height: 50px;
+     text-align: center;
+     font-size: 20px;
+}
+.card-01 .height-fix {
+     height: 455px;
+     overflow: hidden;
+}
+
+.card-01 .height-fix .card-img-top {
+     width: auto !important;
+}
+
+.card-01.height-fix .card-img-overlay {
+     top: unset;
+     color: #fff;
+     box-shadow: inset 0 -70px 60px -50px black;
+}
+.card-img-overlay .card-title {
+     margin-bottom: 0px !important;
+     width: 152px;
+  /* height: 35px; */
+  margin: 10px 201px 1px 10px;
+  font-family: Montserrat;
+  font-size: 15pt;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  /* line-height: 1.48; */
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+}
+.card-img-overlay .card-text{
+width: auto;
+  /* height: 24px; */
+  margin: 0px 15px 0px 10px;
+  font-family: Montserrat;
+  font-size: 9pt;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  /* line-height: 2.1; */
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+}
+.card-01.height-fix .fa {
+     color: #fff;
+     font-size: 22px;
+     margin-right: 18px;
+}
+
+.packages h1 {
+     width: inherit;
+     font-family: Montserrat;
+     font-size: 37px;
+     font-weight: bold;
+     font-stretch: normal;
+     font-style: normal;
+     line-height: 0.93;
+     letter-spacing: normal;
+     text-align: center;
+     color: #000;
+}
+
+.pkgsubhead {
+     width: auto;
+    height: auto;
+    margin: 20px 0px 20px 38px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+}
+.knwmor a {
+     color: #fff !important;
+     text-decoration: none;
+}
+.op {
+     opacity: 1;
+     height:370px !important
+}
+.bk {
+     background-image: linear-gradient(180deg, rgba(0, 0, 0, 10) 100%, #000 100%);
+}
+.colorwt a{
+     color:white;
+     text-decoration: none;
+     font-size: x-small;
+     padding-right:10px;
+}
+.colorwt1{
+     color:white;
+     text-decoration: none;
+     font-size: x-small;
+     padding-right:10px;
+}
+.foot{
+     background-color: black;border-top-left-radius: 50px !important;border-top-right-radius: 50px !important;
+}
+
+ @media (min-width: 576px)
+{
+.card-deck .card-01 {
+    -ms-flex: 1 0 0%;
+    flex: 1 0 0%;
+    margin-right: 0px !important; 
+    margin-bottom: 0;
+     margin-left: 0px !important;
+}
+} 
+.commonsmallpara{
+height: auto;
+font-family: Montserrat;
+font-size: 8pt;
+font-weight: 500;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.67;
+letter-spacing: normal;
+color: #000;
+}
+.mybuttonjrny
+{
+  padding: 13px 70px 13px 70px;
+  border-radius: 5px;
+  background-color: #802e2a;
+  
+  font-family: Montserrat;
+  font-size: 10pt;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align:center;
+  color: #fff;
+}
+.mybuttonjrny:hover
+{
+  padding: 13px 70px 13px 70px;
+  border-radius: 5px;
+  background-color: #802e2a;
+  
+  font-family: Montserrat;
+  font-size: 10pt;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align:center;
+  color: #fff;
+}
+.commonbigpara{
+     width: inherit;
+     /* height: 68px; */
+     margin: 18px 0px 11px 0px;
+     font-family: Montserrat;
+     font-size: 14pt;
+     font-weight: 400;
+     font-stretch: normal;
+     font-style: normal;
+     line-height: 1.38;
+     letter-spacing: normal;
+     text-align: left;
+     color: #000;
+}
+.commonmainheading{
+     width: inherit;
+  
+  margin: 0 0px 18px 00px;
+  font-family: Montserrat;
+  font-size: 37px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.93;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+
+}
+.pkgimght{
+     height: 320px;
+     object-fit: cover;
+}
+
+.ct{
+     margin-bottom: 0px !important;
+     width: 152px;
+  /* height: 35px; */
+  margin: 10px 201px 1px 10px;
+  font-family: Montserrat;
+  font-size: 23pt;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  /* line-height: 1.48; */
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+}
+.texttop{
+     margin-bottom: 0px !important;
+     /* width: 152px; */
+  /* height: 35px; */
+  margin: 30px 201px 1px 70px;
+  font-family: Montserrat;
+  font-size: 18pt;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  /* line-height: 1.48; */
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;   
+}
+.texttopsub{
+   
+  margin: 00px 201px 1px 70px;
+  font-family: Montserrat;
+  font-size: 8pt;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  /* line-height: 1.48; */
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;   
+}
+
+
+
+
+
+
+.qn{
+     width: 194px !important;
+     font-size: 10pt;
+     padding-left: 8px;
+     font-weight: 500;
+     margin-bottom: 0.3rem !important;
+}
+
+
+.dropdown-menu {
+     margin-top: 0px;
+     border: none;
+     background-color: #fff;
+     padding:20px;
+     border: 1px solid #ef761b;
+     font-size: 10pt;
+  
+ }
+ /* a:hover + #dropdown-menu1 {
+     display: block;
+ } */
+ .navbarDropdown1:hover .dropdown-menu {display: block;}
+ 
+ .dropdown-menu {
+     display: none;
+     position: absolute;
+     left: -93px;
+     right: -107px;
+ }
+
+@media (max-width: 767px) {
+    
+ .topcon{
+     margin-top: 66px !important;
+ }
+     .dropdown-menu {
+         left: 0 !important;
+         position: relative !important;
+         padding: 20px
+     }
+ }
+ .fa-angle-down {
+     padding-left: 10px
+ }
+ 
+ .fa-icon {
+     font-size: 30px;
+     color: #fff;
+     background-color: pink;
+     margin: 2px 10px 5px 0px;
+     border-radius: 10px;
+     width: 50px;
+     height: 50px
+ }
+
+
+.tab {
+     /* margin-bottom: 20px; */
+     width: 230px
+ }
+/*  
+ .tab:hover {
+     color: #E91E63 !important
+ }
+  */
+ .dropdown-item {
+     padding: 0px;
+     background-color: none !important;
+ }
+/*  
+ .dropdown-item:hover {
+     background-color: none !important;
+ } */
+.breadml{
+     margin-left: 102px !important;
+     font-size:x-small;
+     
+}
+.breadml li a{
+     color:black !important;
+}
+
+@media (max-width: 767px) {
+     .breadml{
+          margin-left: 13px !important;
+     }
+ }
+
+ .breadcrumb-item.active {
+     color:black !important;
+ }
+ .fw-700{
+font-weight: 700;
+ }
+
+ .card-text {
+     font-size: 9pt;
+     text-align: justify;
+}
+a{
+     text-decoration: none !important;
+     cursor: pointer !important;
+}
+.exul {
+list-style: none;
+padding:0;
+margin:0;
+font-size: 8pt;
+}
+
+.exul li { 
+padding-left: 1em; 
+text-indent: -.7em;
+padding-top:5px;
+}
+
+.exul li:before {
+content: "■";
+color: #ef761b; /* or whatever color you prefer */
+padding-right:7px;
+}
+.exul li a{
+color:black !important;
+}
+.exul li a:hover{
+color:black !important;
+font-weight: 700;
+}
+.bt{
+color: #a05b4f;
+font-size:8pt;
+font-weight: 700;
+}
+
+.bt1{
+     color: #a05b4f;
+     font-size:12pt;
+     font-weight: 700;
+     }
+.dropdown:hover>.dropdown-menu {
+display: block;
+}
+.txtsmall{
+     font-size: x-small;
+     font-weight: 500;
+}
+
+.mybuttonpkg {
+     padding: 7px 20px 7px 20px;
+     border-radius: 4px;
+     background-color: #a05b4f;
+     font-family: Montserrat;
+     font-size: 10pt;
+     font-weight: 700;
+     font-stretch: normal;
+     font-style: normal;
+     line-height: normal;
+     letter-spacing: normal;
+     text-align: center;
+     color: #fff;
+ }
+ .dayndiv{
+      padding-top: 25px;
+       width: 586px;
+ }
+ .daynhead{
+     font-family: Montserrat;
+     font-size: 18px;
+     font-weight: 700;
+     font-stretch: normal;
+     font-style: normal;
+     letter-spacing: normal;
+     text-align: left;
+     color: #000;
+ }
+
+ .cdiv4_img {
+     width: 100% !important; 
+      height: 200px;
+     
+     object-fit: cover;
+     
+}
+
+.navul li .colorblk{
+     font-weight: 700 !important;
+}
+.navul li .colorblk:hover{
+     font-weight: 700 !important;
+     color: #a05b4f !important;
+}
+.navul li .colorblk1{
+     font-weight: 500 !important;
+     color: rgb(51, 51, 51) !important;
+}
+.navul li .colorblk1:hover{
+     font-weight: 600 !important;
+     color: black !important;
+}
